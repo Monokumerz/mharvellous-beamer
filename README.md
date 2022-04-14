@@ -3,7 +3,7 @@ A simple presentation template.
 
 ## Main Style
 <p align="center">
-  <img src="./img/default.png" alt="Size Limit CLI" width="738">
+  <img src="./img/mdracula.png" alt="Size Limit CLI" width="738">
 </p>
 
 
@@ -27,7 +27,7 @@ The mharvellous beamer offers 4 distinct styles: *default, classic, dark and mra
 
 To change the style you must change the following line in the main file **presentation.tex**:
 
-`\usetheme[style=default]{mhar-vell}`
+`\usetheme[style=mdracula]{mhar-vell}`
 
 
 ## Important
